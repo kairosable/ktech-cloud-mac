@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Dokploy</title>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dokploy</title>
+        <item>
+            <title>2026.09.1</title>
+            <pubDate>Thu, 10 Sep 2026 12:58:19 +0200</pubDate>
+            <sparkle:version>2026.9.199</sparkle:version>
+            <sparkle:shortVersionString>2026.09.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kairosable/ktech-cloud-mac/releases/download/v2026.09.1/ktech-cloud-2026.09.1.zip" length="8655279" type="application/octet-stream" sparkle:edSignature="ukbBxyPwDxbkuTxi1Tyj2MXqkRdD3dLZ3gQh8fYYgozOPiVSG6lWPMA0DjHMSdr+G7MlF5rK6UsSeuB+DzwNDw=="/>
+        </item>
+    </channel>
 </rss>
